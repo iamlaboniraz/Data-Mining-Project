@@ -277,4 +277,68 @@ Instead of applying one general strategy to all users, the business can design d
 ├── DM2425_Part2_03(Report).pdf
 ├── DM2425_Part2_03_01.ipynb
 ├── DM2425_Part2_03_02.ipynb
+├── requirements.txt
+├── .gitignore
 └── README.md
+```
+
+---
+
+## File Descriptions
+
+| File | Description |
+|---|---|
+| `DM2425_Part2_03(Report).pdf` | Final project report containing data understanding, preprocessing, feature engineering, clustering analysis, final cluster profiles, business insights, and conclusions |
+| `DM2425_Part2_03_01.ipynb` | Jupyter notebook containing data exploration, data treatment, preprocessing, and feature engineering |
+| `DM2425_Part2_03_02.ipynb` | Jupyter notebook containing clustering implementation, cluster evaluation, and final customer segmentation analysis |
+| `requirements.txt` | Python libraries required to run the notebooks |
+| `.gitignore` | Files and folders ignored by Git |
+| `README.md` | Project documentation and summary |
+
+---
+
+## Tools & Technologies
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- K-Means Clustering
+- Hierarchical Clustering
+- Data Mining
+- Customer Analytics
+
+---
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/iamlaboniraz/Data-Mining-Project.git
+cd Data-Mining-Project
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Open Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Run the notebooks in the following order:
+
+```text
+1. DM2425_Part2_03_01.ipynb
+2. DM2425_Part2_03_02.ipynb
+```
+
+---
